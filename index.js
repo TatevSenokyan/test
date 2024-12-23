@@ -1,1 +1,1 @@
-console.log("hello world!!!!!21")
+alert(1)
