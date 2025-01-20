@@ -1,2 +1,2 @@
 alert(2)
-console.log("main")
+console.log("main1")
